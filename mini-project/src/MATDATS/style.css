@@ -1,0 +1,47 @@
+#header{
+    -fx-background-color:black;
+}
+#close{
+   -fx-text-fill:white;
+   -fx-font:bold;
+    
+}
+#close:hover{
+    -fx-background-color:red;
+}
+#mini{
+   -fx-text-fill:white;
+   -fx-font:bold;
+    
+}
+#mini:hover{
+    -fx-background-color:gray;
+}
+#scene{
+    -fx-background-color:black;
+    -fx-border-color:red;
+}
+#menu1{
+    -fx-background-color:#0a0b0e;
+}
+#title{
+    -fx-text-fill:white;
+     -fx-font:bold;
+}
+#menu:hover{
+    -fx-background-color:gray; 
+}
+#textField{
+    -fx-background-color:transparent;
+    -fx-text-fill:white;
+    -fx-border-color:#0099ff;
+    -fx-border-width:1.5;
+}
+#questionColor{
+    -fx-text-fill: white;
+    -fx-font-size: 110%;
+}
+#question{
+    -fx-text-fill: white;
+    -fx-font-size: 300%;
+}
