@@ -1,0 +1,16 @@
+Run it through command prompt and give command line arguments as well to proceed....
+
+for example : java interface osama maverick (for admin)
+
+(first argument is username and second is is his/her pincode (see account.txt as well))
+
+for example : java interface osama123 1122 (for any user/client)
+
+Hi, this is a osama mursleen from pakistan , doing bachelors in computer sciences 
+from university of lahore...
+
+This ATM MACHINE done in java.... i am just a beginner in java
+
+if u wanna contact me contact me at : osamamursleen@gmail.com
+
+i hope u like it.. thanks
