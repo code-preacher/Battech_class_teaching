@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import com.jfoenix.controls.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="389.0" prefWidth="396.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="mikey.FXMLDocumentController">
+   <children>
+      <JFXTextArea fx:id="JTextArea" focusColor="#3db8e5" layoutX="18.0" layoutY="48.0" maxWidth="370.0" minWidth="346.0" prefHeight="265.0" prefWidth="360.0" promptText="Write hear and mikey will recite it..." style="-fx-background-color: #3db8e5;">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </JFXTextArea>
+      <JFXButton fx:id="speak" buttonType="RAISED" layoutX="21.0" layoutY="327.0" onAction="#speakout" prefHeight="37.0" prefWidth="126.0" style="-fx-background-color: #2023c2;" text="MIKEY SPEAK!" textFill="#f3f3f4" />
+      <Label layoutX="21.0" layoutY="19.0" prefHeight="29.0" prefWidth="81.0" text="Mikey Speaks!" textFill="#3c56da" />
+   </children>
+</AnchorPane>
